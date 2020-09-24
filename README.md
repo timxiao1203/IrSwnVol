@@ -1,1 +1,1 @@
-# IrSwnVol
+The term structures of implied volatilities which provide indications of the market’s near- and long-term uncertainty about future short- and long-term swap rates. A crucial property of the implied volatility surface is the absence of arbitrage. See introduction at https://finpricing.com/lib/IrSwnVol.html
