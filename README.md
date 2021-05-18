@@ -86,6 +86,10 @@ The Levenberg-Marquardt least-squares optimization routine is used for optimizat
 	Repeat the above process for each term and tenor.
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/FxVolIntroduction.html
+
+https://bitbucket.org/timxiao1203/irswnvol/downloads/IrSwnVol-6.pdf
+
 
